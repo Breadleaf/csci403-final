@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T04:30:13.570Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="NXCVUVJz17PRA94ofQdm" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T04:31:38.082Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="wxeZl8OMx--NAQa6LcfF" version="24.2.8" type="github">
   <diagram name="Page-1" id="RsbpstBdeYaI3uLPqy3J">
-    <mxGraphModel dx="1499" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="730" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,13 +76,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Aa7IE_unNv0BqzbSFBqd-16" value="average_viewers" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="495" y="60" width="100" height="40" as="geometry" />
+          <mxGeometry x="445" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Aa7IE_unNv0BqzbSFBqd-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Aa7IE_unNv0BqzbSFBqd-17" target="Aa7IE_unNv0BqzbSFBqd-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Aa7IE_unNv0BqzbSFBqd-17" value="views_gained" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="615" y="60" width="100" height="40" as="geometry" />
+          <mxGeometry x="640" y="30" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Aa7IE_unNv0BqzbSFBqd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Aa7IE_unNv0BqzbSFBqd-18" target="Aa7IE_unNv0BqzbSFBqd-3">
           <mxGeometry relative="1" as="geometry" />
@@ -119,6 +119,12 @@
         </mxCell>
         <mxCell id="Aa7IE_unNv0BqzbSFBqd-25" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Aa7IE_unNv0BqzbSFBqd-23">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa7IE_unNv0BqzbSFBqd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Aa7IE_unNv0BqzbSFBqd-42" target="Aa7IE_unNv0BqzbSFBqd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa7IE_unNv0BqzbSFBqd-42" value="&lt;div&gt;id&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="555" y="60" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
